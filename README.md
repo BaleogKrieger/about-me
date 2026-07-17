@@ -29,8 +29,13 @@ Most recently Senior Unity Developer at **DREST**, working on scalable systems d
 | Content delivery | Unity Addressables, OTA systems |
 | Performance | Profiling, ANR/crash reduction, memory optimisation |
 | Leadership | Tech Lead, team of 4, mentoring, code review |
-| Tooling | GitHub Copilot, Unity Editor tools, release management |
+| Tooling | GitHub Copilot, Unity Editor tools, Claude Code, Github Copilot, release management |
 
 ---
 
-*Portfolio and code samples available on request.*
+### Portfolio and Code Samples
+
+- **Code and Project Sample** [Available in this repository](https://github.com/BaleogKrieger/ResilientSDKProxy)
+- **Stumble Guys** for [Android](https://play.google.com/store/apps/details?id=com.kitkagames.fallbuddies), [iOS](https://apps.apple.com/es/app/stumble-guys/id1541153375), and also available for consoles and PC.
+- **Monopoly Go!** for [Android](https://play.google.com/store/apps/details?id=com.scopely.monopolygo), [iOS](https://apps.apple.com/es/app/monopoly-go/id1621328561).
+- **DREST** for [Android](https://play.google.com/store/apps/details?id=com.drest.drestpro), [iOS](https://apps.apple.com/es/app/drest-juegos-de-vestir-y-moda/id1630969055).
